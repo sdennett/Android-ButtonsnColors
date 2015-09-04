@@ -1,5 +1,6 @@
  
 ABOUT THIS EXAMPLE
+
   Goal: Become familiar with use of Buttons and how to dynamically
         update the color of elements within a Android xml Layout.
         Layouts can be declared in two ways; 1) by declaring UI elements
@@ -9,7 +10,9 @@ ABOUT THIS EXAMPLE
         this might be of help to others.
 
 ABOUT THE AUTHOR
+
   Steve Dennett @sadennett
+  
     I am a freelance software developer with a background in Mobile Devices
     and Mobile Communications. I am a DevOps person of sorts as I enjoy
     developing application through the entire stack. I love Linux and
@@ -17,6 +20,7 @@ ABOUT THE AUTHOR
     Linux LAMP server.
 
 SOME HINTS
+
   Make sure you check out MainActivity.java and activity_mail.xml (of course)
   as well as colors.xml and strings.xml. This are the main components in this
   demonstration.
