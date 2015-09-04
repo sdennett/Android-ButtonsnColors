@@ -62,7 +62,7 @@
         <Button
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="Socks"
+            android:text="Soxs"
             android:id="@+id/buttonSoxs"
             android:textColor="#FFFFFF"
             android:layout_centerVertical="true"
