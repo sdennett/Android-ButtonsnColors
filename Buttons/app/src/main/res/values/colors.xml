@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <item name="atlanta_navy" type="color">#01487E</item>
+    <item name="atlanta_scarlet" type="color">#D60D39</item>
+    <item name="arizona_sedona_red" type="color">#A71932</item>
+    <item name="arizona_sonoran_sand" type="color">#DBCEAC</item>
+    <item name="arizona_black" type="color">#000000</item>
+    <item name="cubs_blue" type="color">#0E3386</item>
+    <item name="cubs_red" type="color">#D12325</item>
+    <item name="whitesox_black" type="color">#000000</item>
+    <item name="whitesox_white" type="color">#FFFFFF</item>
+    <item name="whitesox_silver" type="color">#DCDDDF</item>
+
+    <integer-array name="mlbcolors">
+        <item>@color/arizona_sedona_red</item>
+        <item>@color/arizona_sonoran_sand</item>
+        <item>@color/arizona_black</item>
+        <item>@color/cubs_blue</item>
+        <item>@color/cubs_red</item>
+        <item>@color/whitesox_black</item>
+        <item>@color/whitesox_white</item>
+        <item>@color/whitesox_silver</item>
+    </integer-array>
+
+    <item name="bears_dark_navy" type="color">#03202F</item>
+    <item name="bears_orange" type="color">#DD4814</item>
+
+    <integer-array name="nflcolors">
+        <item>@color/bears_dark_navy</item>
+        <item>@color/bears_orange</item>
+    </integer-array>
+
+    <item name="ohio_state_scarlet" type="color">#bb0000</item>
+    <item name="ohio_state_grey" type="color">#666666</item>
+    <item name="ohio_state_white" type="color">#FFFFFF</item>
+    <item name="ohio_state_black" type="color">#000000</item>
+
+    <integer-array name="ncaacolors">
+        <item>@color/ohio_state_scarlet</item>
+        <item>@color/ohio_state_grey</item>
+        <item>@color/ohio_state_white</item>
+        <item>@color/ohio_state_black</item>
+    </integer-array>
+</resources>
